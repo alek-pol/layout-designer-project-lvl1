@@ -1,0 +1,17 @@
+# Editors
+.idea
+.vscode
+
+# Ignore all logfiles and tempfiles.
+/tmp/
+
+# OS
+.DS_STORE
+Thumbs.db
+
+# Emacs backup file
+*~
+*#
+
+# Dependency directories
+/node_modules/
